@@ -169,5 +169,5 @@ I am actively open to **Full-Stack Software Engineering**, **Backend Systems Eng
 
 * 🌐 **Interactive Portfolio:** [personal-portfolio-ochre-seven-62.vercel.app](https://personal-portfolio-ochre-seven-62.vercel.app)
 * 📬 **Email:** [i.am.muregi@gmail.com](mailto:i.am.muregi@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/victor-muregi](https://www.linkedin.com/in/victor-muregi)
+* 💼 **LinkedIn:** [linkedin.com/victor-muregi](https://www.linkedin.com/victor-muregi)
 * 🐙 **GitHub:** [@Muregis](https://github.com/Muregis)
