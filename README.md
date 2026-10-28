@@ -57,7 +57,7 @@ Smaller client sites live in other repos; the table above is what to review firs
 ### Contact
 
 **Email:** i.am.muregi@gmail.com  
-**Portfolio:** https://personal-portfolio-ochre-seven-62.vercel.app  
+**Portfolio:** https://portfolio.muregiscore.me  
 **GitHub:** [@Muregis](https://github.com/Muregis)
 
 ---
