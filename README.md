@@ -6,7 +6,7 @@
 
 Building practical multi-tenant software for education, sales operations, and local businesses.
 
-[Portfolio](https://personal-portfolio-ochre-seven-62.vercel.app) · [LinkedIn](https://www.linkedin.com/in/victor-muregi) · [Email](mailto:i.am.muregi@gmail.com)
+[Portfolio](portfolio.muregiscore.me) · [LinkedIn](https://www.linkedin.com/in/victor-muregi) · [Email](mailto:i.am.muregi@gmail.com)
 
 </div>
 
