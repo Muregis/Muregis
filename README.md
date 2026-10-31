@@ -2,11 +2,11 @@
 
 # Victor Muregi
 
-**Founder & Lead Systems Architect · MuregiScore Technologies · Nairobi, Kenya**
+**Victor Muregi | Full-stack developer · MuregiScore Technologies · Nairobi**
 
-I design and ship multi-tenant production systems for Kenyan schools and SMEs — with real tenant isolation, RBAC, and M-Pesa payment patterns.
+I build multi-tenant production systems for Kenyan schools and SMEs — tenant isolation, RBAC, and M-Pesa payment patterns.
 
-[Company](https://muregiscore.me) · [Portfolio](https://portfolio.muregiscore.me) · [LinkedIn](https://www.linkedin.com/in/victor-muregi) · [Email](mailto:i.am.muregi@gmail.com)
+[Portfolio](https://portfolio.muregiscore.me) · [Company](https://muregiscore.me) · [LinkedIn](https://www.linkedin.com/in/victor-muregi) · [Email](mailto:i.am.muregi@gmail.com)
 
 </div>
 
@@ -14,9 +14,9 @@ I design and ship multi-tenant production systems for Kenyan schools and SMEs �
 
 ### About
 
-Founder of **MuregiScore Technologies**. Computer Science (Diploma Level 6, Kiambu National Polytechnic).
+**Victor Muregi** is a full-stack software engineer and founder of **MuregiScore Technologies** (Nairobi, Kenya). Computer Science Diploma Level 6, Kiambu National Polytechnic.
 
-I build systems that solve concrete operational problems in Kenya: school administration, fee collection, timetabling, and SME pipelines — engineered for multi-tenant isolation, payment reliability, and real-world constraints.
+I design and ship systems for school operations, fee collection, timetabling, and SME pipelines — engineered for multi-tenant isolation, payment reliability, and real-world constraints.
 
 **Core strengths**
 - Multi-tenant SaaS with strict `school_id` / `tenant_id` isolation
@@ -27,14 +27,14 @@ I build systems that solve concrete operational problems in Kenya: school admini
 
 ---
 
-### Flagship systems (MuregiScore)
+### Flagship systems (MuregiScore Technologies)
 
 | System | What it is | Evidence |
 |--------|------------|----------|
-| **[EduCore](https://github.com/Muregis/educore-school-management-system)** | Multi-tenant school management (fees, academics, multi-campus, payments) | [Live](https://educore.muregiscore.me) · Repo |
-| **[EduCore Ratiba](https://github.com/Muregis/Educore-Ratiba)** | Whole-school timetable engine (CBC / 8-4-4, FET + clash detection) | [Live](https://ratiba.muregiscore.me) · PHP tests + CI |
-| **[Core CRM](https://github.com/Muregis/Core-Crm-model)** | Multi-tenant CRM with BullMQ workers and vertical modules | Repo · Jest + GitHub Actions |
-| **[Livestock](https://github.com/Muregis/Livestock-Management-App)** | AgriTech MVP — records, health views, tasks | [Live](https://livestock-management-app.vercel.app) |
+| **[EduCore](https://github.com/Muregis/educore-school-management-system)** | Multi-tenant school management | [Live](https://educore.muregiscore.me) · Repo |
+| **[EduCore Ratiba](https://github.com/Muregis/Educore-Ratiba)** | Whole-school timetable engine (CBC / 8-4-4) | [Live](https://ratiba.muregiscore.me) · CI |
+| **[Core CRM](https://github.com/Muregis/Core-Crm-model)** | Multi-tenant CRM + BullMQ workers | Repo · Jest + Actions |
+| **[Livestock](https://github.com/Muregis/Livestock-Management-App)** | AgriTech MVP | [Live](https://livestock-management-app.vercel.app) |
 
 ---
 
@@ -49,21 +49,10 @@ I build systems that solve concrete operational problems in Kenya: school admini
 
 ---
 
-### Engineering focus
-
-- Tenant boundaries as a first-class design constraint
-- Idempotent payment webhooks (no double-crediting)
-- Testable clash / constraint logic
-- Honest documentation of what is production-ready vs MVP
-
----
-
 ### Company
 
-**MuregiScore Technologies** — multi-disciplinary software engineering for education, payments, and operations across Kenya and East Africa.
-
-- Website: [muregiscore.me](https://muregiscore.me)
-- Clutch: [MuregiScore Technologies](https://clutch.co/profile/muregiscore-technologies)
+**MuregiScore Technologies** — software for education, payments, and operations in Kenya and East Africa.  
+Website: [muregiscore.me](https://muregiscore.me)
 
 ---
 
@@ -76,4 +65,4 @@ I build systems that solve concrete operational problems in Kenya: school admini
 
 ---
 
-*Built by Victor Muregi · Engineered under MuregiScore Technologies*
+*Victor Muregi · MuregiScore Technologies · Nairobi*
