@@ -32,8 +32,8 @@ Open to **junior full-stack**, **backend**, and **product/implementation** roles
 
 | Project | What it is | Evidence |
 |---------|------------|----------|
-| **[EduCore](https://github.com/Muregis/educore-school-management-system)** | Multi-tenant school management (fees, academics, multi-campus, payments) | [Live demo](https://educore-school-management-system-pi.vercel.app) · Repo |
-| **[EduCore Ratiba](https://github.com/Muregis/Educore-Ratiba)** | Whole-school timetable engine (CBC / 8-4-4, FET + clash detection) | [Live demo](https://educoreratiba.vercel.app) · PHP tests + CI |
+| **[EduCore](https://github.com/Muregis/educore-school-management-system)** | Multi-tenant school management (fees, academics, multi-campus, payments) | [Live demo](https://educore.muregiscore.me) · Repo |
+| **[EduCore Ratiba](https://github.com/Muregis/Educore-Ratiba)** | Whole-school timetable engine (CBC / 8-4-4, FET + clash detection) | [Live demo](https://educore-ratiba.muregiscore.me) · PHP tests + CI |
 | **[Core CRM](https://github.com/Muregis/Core-Crm-model)** | Multi-tenant CRM with BullMQ workers and vertical modules | Repo · Jest + GitHub Actions |
 | **[Livestock](https://github.com/Muregis/Livestock-Management-App)** | AgriTech MVP — records, health views, tasks | [Live](https://livestock-management-app.vercel.app) |
 
