@@ -2,11 +2,11 @@
 
 # Victor Muregi
 
-**Full-stack developer · Founder, MuregiScore Technologies · Nairobi, Kenya**
+**Founder & Lead Systems Architect · MuregiScore Technologies · Nairobi, Kenya**
 
-I build multi-tenant production systems for Kenyan schools and SMEs — with real tenant isolation, RBAC, and M-Pesa payment patterns.
+I design and ship multi-tenant production systems for Kenyan schools and SMEs — with real tenant isolation, RBAC, and M-Pesa payment patterns.
 
-[Portfolio](https://portfolio.muregiscore.me) · [LinkedIn](https://www.linkedin.com/in/victor-muregi) · [Email](mailto:i.am.muregi@gmail.com)
+[Company](https://muregiscore.me) · [Portfolio](https://portfolio.muregiscore.me) · [LinkedIn](https://www.linkedin.com/in/victor-muregi) · [Email](mailto:i.am.muregi@gmail.com)
 
 </div>
 
@@ -14,26 +14,25 @@ I build multi-tenant production systems for Kenyan schools and SMEs — with rea
 
 ### About
 
-Computer Science (Diploma Level 6, Kiambu National Polytechnic).  
-I design and ship systems that solve concrete operational problems in Kenya: school operations, fee collection, timetabling, and SME pipelines.
+Founder of **MuregiScore Technologies**. Computer Science (Diploma Level 6, Kiambu National Polytechnic).
 
-Core strengths:
+I build systems that solve concrete operational problems in Kenya: school administration, fee collection, timetabling, and SME pipelines — engineered for multi-tenant isolation, payment reliability, and real-world constraints.
+
+**Core strengths**
 - Multi-tenant SaaS with strict `school_id` / `tenant_id` isolation
 - Role-based access control (RBAC)
 - Safaricom M-Pesa Daraja integration patterns (STK, C2B, idempotent webhooks)
 - Background jobs with BullMQ / Redis
 - Constraint problems (whole-school timetable generation)
 
-Open to **junior full-stack**, **backend**, and **product/implementation** roles.
-
 ---
 
-### Flagship projects
+### Flagship systems (MuregiScore)
 
-| Project | What it is | Evidence |
-|---------|------------|----------|
-| **[EduCore](https://github.com/Muregis/educore-school-management-system)** | Multi-tenant school management (fees, academics, multi-campus, payments) | [Live demo](https://educore.muregiscore.me) · Repo |
-| **[EduCore Ratiba](https://github.com/Muregis/Educore-Ratiba)** | Whole-school timetable engine (CBC / 8-4-4, FET + clash detection) | [Live demo](https://educore-ratiba.muregiscore.me) · PHP tests + CI |
+| System | What it is | Evidence |
+|--------|------------|----------|
+| **[EduCore](https://github.com/Muregis/educore-school-management-system)** | Multi-tenant school management (fees, academics, multi-campus, payments) | [Live](https://educore.muregiscore.me) · Repo |
+| **[EduCore Ratiba](https://github.com/Muregis/Educore-Ratiba)** | Whole-school timetable engine (CBC / 8-4-4, FET + clash detection) | [Live](https://ratiba.muregiscore.me) · PHP tests + CI |
 | **[Core CRM](https://github.com/Muregis/Core-Crm-model)** | Multi-tenant CRM with BullMQ workers and vertical modules | Repo · Jest + GitHub Actions |
 | **[Livestock](https://github.com/Muregis/Livestock-Management-App)** | AgriTech MVP — records, health views, tasks | [Live](https://livestock-management-app.vercel.app) |
 
@@ -59,19 +58,22 @@ Open to **junior full-stack**, **backend**, and **product/implementation** roles
 
 ---
 
-### Writing
+### Company
 
-I publish technical notes on multi-tenancy, M-Pesa reliability, and education-domain systems.  
-Links will appear here as articles go live.
+**MuregiScore Technologies** — multi-disciplinary software engineering for education, payments, and operations across Kenya and East Africa.
+
+- Website: [muregiscore.me](https://muregiscore.me)
+- Clutch: [MuregiScore Technologies](https://clutch.co/profile/muregiscore-technologies)
 
 ---
 
 ### Contact
 
 **Email:** i.am.muregi@gmail.com  
+**WhatsApp:** +254 783 541 086  
 **Portfolio:** https://portfolio.muregiscore.me  
 **GitHub:** [@Muregis](https://github.com/Muregis)
 
 ---
 
-*Actively applying from late 2026. Happy to walk through architecture, tests, and trade-offs on any flagship repo.*
+*Built by Victor Muregi · Engineered under MuregiScore Technologies*
