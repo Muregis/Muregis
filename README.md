@@ -4,7 +4,7 @@
 
 **Victor Muregi | Full-stack developer · MuregiScore Technologies · Nairobi**
 
-I build multi-tenant production systems for Kenyan schools and SMEs — tenant isolation, RBAC, and M-Pesa payment patterns.
+Multi-tenant systems for Kenyan schools and SMEs — tenant isolation, RBAC, and M-Pesa payment patterns.
 
 [Portfolio](https://portfolio.muregiscore.me) · [Company](https://muregiscore.me) · [LinkedIn](https://www.linkedin.com/in/victor-muregi) · [Email](mailto:i.am.muregi@gmail.com)
 
@@ -14,16 +14,18 @@ I build multi-tenant production systems for Kenyan schools and SMEs — tenant i
 
 ### About
 
-**Victor Muregi** is a full-stack software engineer and founder of **MuregiScore Technologies** (Nairobi, Kenya). Computer Science Diploma Level 6, Kiambu National Polytechnic.
+**Victor Muregi** is a full-stack software engineer based in **Nairobi, Kenya**, and founder of **MuregiScore Technologies**.
 
-I design and ship systems for school operations, fee collection, timetabling, and SME pipelines — engineered for multi-tenant isolation, payment reliability, and real-world constraints.
+Computer Science (Diploma Level 6, Kiambu National Polytechnic). I design and ship systems for school operations, fee collection, timetabling, and SME pipelines — with real tenant isolation, payment reliability, and production constraints.
 
 **Core strengths**
 - Multi-tenant SaaS with strict `school_id` / `tenant_id` isolation
 - Role-based access control (RBAC)
-- Safaricom M-Pesa Daraja integration patterns (STK, C2B, idempotent webhooks)
+- Safaricom M-Pesa Daraja patterns (STK, C2B, idempotent webhooks)
 - Background jobs with BullMQ / Redis
 - Constraint problems (whole-school timetable generation)
+
+Open to software engineering roles and focused product/implementation work where I own systems end-to-end.
 
 ---
 
