@@ -34,7 +34,7 @@ Open to software engineering roles and focused product/implementation work where
 | System | What it is | Evidence |
 |--------|------------|----------|
 | **[EduCore](https://github.com/Muregis/educore-school-management-system)** | Multi-tenant school management | [Live](https://educore.muregiscore.me) · Repo |
-| **[EduCore Ratiba](https://github.com/Muregis/Educore-Ratiba)** | Whole-school timetable engine (CBC / 8-4-4) | [Live](https://ratiba.muregiscore.me) · CI |
+| **[EduCore Ratiba](https://github.com/Muregis/Educore-Ratiba)** | Whole-school timetable engine (CBC / 8-4-4) | [Live](https://educore-ratiba.muregiscore.me) · CI |
 | **[Core CRM](https://github.com/Muregis/Core-Crm-model)** | Multi-tenant CRM + BullMQ workers | Repo · Jest + Actions |
 | **[Livestock](https://github.com/Muregis/Livestock-Management-App)** | AgriTech MVP | [Live](https://livestock-management-app.vercel.app) |
 
